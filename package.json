@@ -2,7 +2,7 @@
   "name": "escape-room",
   "version": "1.0.0",
   "description": "A virual escape room I am making while prep for preboards",
-  "main": "index.js",
+  "main": "backend/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
